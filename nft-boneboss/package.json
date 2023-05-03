@@ -12,6 +12,7 @@
         "animate.css": "^4.1.1",
         "antd": "^5.1.1",
         "autoprefixer": "10.4.5",
+        "aws-amplify": "^5.1.4",
         "bootstrap": "^5.2.0-beta1",
         "cors": "^2.8.5",
         "nodemailer": "^6.7.5",

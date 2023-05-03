@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/erc-721_sepolia/static/css/main.fe91ceb0.css",
-    "main.js": "/erc-721_sepolia/static/js/main.2b2f34a7.js",
-    "static/media/banner-bg2.png": "/erc-721_sepolia/static/media/banner-bg2.434ffabe120d747fcc86.png",
-    "static/media/NightClub.png": "/erc-721_sepolia/static/media/NightClub.e8c04f3db8066a95bd93.png",
-    "static/media/NightClub2.png": "/erc-721_sepolia/static/media/NightClub2.ba5b2ee5e00275874c1e.png",
-    "static/media/NightClub3.png": "/erc-721_sepolia/static/media/NightClub3.542b879e7463d543a2d1.png",
-    "static/media/color-sharp2.png": "/erc-721_sepolia/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
-    "static/media/header-img.svg": "/erc-721_sepolia/static/media/header-img.400baa4260daac98f2b2b1ccf08761c2.svg",
-    "static/media/CentraNo2-Bold.ttf": "/erc-721_sepolia/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
-    "static/media/CentraNo2-Medium.ttf": "/erc-721_sepolia/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
-    "static/media/CentraNo2-Book.ttf": "/erc-721_sepolia/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
-    "static/media/footer-bg.png": "/erc-721_sepolia/static/media/footer-bg.7bd67c0f73571d0acc02.png",
-    "static/media/nav-icon5.svg": "/erc-721_sepolia/static/media/nav-icon5.1f5996d837c8e0253830785a0d3c70de.svg",
-    "static/media/nav-icon4.svg": "/erc-721_sepolia/static/media/nav-icon4.7688d7ca526f325051b47a95a06e7cfd.svg",
-    "static/media/nav-icon6.svg": "/erc-721_sepolia/static/media/nav-icon6.4434bea2cb0c5f89bb7682d0bb085fd1.svg",
-    "static/media/nav-icon3.svg": "/erc-721_sepolia/static/media/nav-icon3.72cef43bc93b04f52e29f022ef720f8b.svg",
-    "static/media/nav-icon2.svg": "/erc-721_sepolia/static/media/nav-icon2.12634321b98fb0248357c3aab640c2bf.svg",
-    "index.html": "/erc-721_sepolia/index.html",
-    "static/media/nav-icon1.svg": "/erc-721_sepolia/static/media/nav-icon1.dff40ae802524d8fc0cbce3f312abe4f.svg",
-    "main.fe91ceb0.css.map": "/erc-721_sepolia/static/css/main.fe91ceb0.css.map",
-    "main.2b2f34a7.js.map": "/erc-721_sepolia/static/js/main.2b2f34a7.js.map"
+    "main.css": "/static/css/main.64eb1bf8.css",
+    "main.js": "/static/js/main.011ac4be.js",
+    "static/media/banner-bg2.png": "/static/media/banner-bg2.434ffabe120d747fcc86.png",
+    "static/media/NightClub.png": "/static/media/NightClub.e8c04f3db8066a95bd93.png",
+    "static/media/NightClub2.png": "/static/media/NightClub2.ba5b2ee5e00275874c1e.png",
+    "static/media/NightClub3.png": "/static/media/NightClub3.542b879e7463d543a2d1.png",
+    "static/media/color-sharp2.png": "/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/header-img.svg": "/static/media/header-img.400baa4260daac98f2b2b1ccf08761c2.svg",
+    "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/nav-icon5.svg": "/static/media/nav-icon5.1f5996d837c8e0253830785a0d3c70de.svg",
+    "static/media/nav-icon4.svg": "/static/media/nav-icon4.7688d7ca526f325051b47a95a06e7cfd.svg",
+    "static/media/nav-icon6.svg": "/static/media/nav-icon6.4434bea2cb0c5f89bb7682d0bb085fd1.svg",
+    "static/media/nav-icon3.svg": "/static/media/nav-icon3.72cef43bc93b04f52e29f022ef720f8b.svg",
+    "static/media/nav-icon2.svg": "/static/media/nav-icon2.12634321b98fb0248357c3aab640c2bf.svg",
+    "static/media/nav-icon1.svg": "/static/media/nav-icon1.dff40ae802524d8fc0cbce3f312abe4f.svg",
+    "index.html": "/index.html",
+    "main.64eb1bf8.css.map": "/static/css/main.64eb1bf8.css.map",
+    "main.011ac4be.js.map": "/static/js/main.011ac4be.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe91ceb0.css",
-    "static/js/main.2b2f34a7.js"
+    "static/css/main.64eb1bf8.css",
+    "static/js/main.011ac4be.js"
   ]
 }

@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nftboneboss-dev-225500-authRole",
+      "UnauthRoleArn": "arn:aws:iam::440724362713:role/amplify-nftboneboss-dev-225500-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::440724362713:role/amplify-nftboneboss-dev-225500-authRole",
+      "Region": "ap-northeast-2",
+      "DeploymentBucketName": "amplify-nftboneboss-dev-225500-deployment",
+      "UnauthRoleName": "amplify-nftboneboss-dev-225500-unauthRole",
+      "StackName": "amplify-nftboneboss-dev-225500",
+      "StackId": "arn:aws:cloudformation:ap-northeast-2:440724362713:stack/amplify-nftboneboss-dev-225500/7c2a2f20-e9c2-11ed-8055-06263332a8a0",
+      "AmplifyAppId": "d3o8tmv3x7j8le"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d3o8tmv3x7j8le",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
