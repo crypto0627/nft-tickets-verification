@@ -145,7 +145,7 @@ const NavBar = ({ signOut }) => {
                   <img src={navIcon3} alt="" />
                 </a>
                 <a
-                  href="https://github.com/crypto0627/nft-boneboss/"
+                  href="https://github.com/crypto0627/nft-tickets-verification"
                   target="_blank"
                   title="GitHub"
                   rel="noreferrer"
